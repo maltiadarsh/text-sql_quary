@@ -64,7 +64,7 @@ This project makes **data access inclusive, fast, and AI-powered**.
 | Component | Technology |
 |------------|-------------|
 | 💻 Frontend | Streamlit |
-| 🧠 AI Model | Google Gemini (`gemini-1.5-flash`) |
+| 🧠 AI Model | Google Gemini (`gemini-2.5-flash`) |
 | 🗄️ Database | SQLite |
 | 🔐 Secrets Management | python-dotenv |
 | 🐍 Language | Python 3.10+ |
@@ -85,7 +85,7 @@ Click the image below to watch the full demo on YouTube 👇
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/text-to-sql-gemini.git
+git clone [https://github.com/yourusername/text-to-sql-gemini.git](https://github.com/maltiadarsh/text-sql_quary.git)
 cd text-to-sql-gemini
 ```
 ---
