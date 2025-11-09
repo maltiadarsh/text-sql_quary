@@ -136,6 +136,7 @@ Here are some sample natural language questions and the corresponding SQL querie
 | “Top 5 students by marks” | `SELECT * FROM STUDENT ORDER BY MARKS DESC LIMIT 5;` |
 ---
 ## 📁 Project Structure
+```bash
 text-to-sql/
 │
 ├── app.py                  # Main Streamlit application
@@ -143,14 +144,19 @@ text-to-sql/
 ├── .env                    # Environment file (API key)
 ├── requirements.txt        # Project dependencies
 └── README.md               # Documentation
+
+```
+
 ---
 
 ## 👤 Author
 
 **Adarsh Srivastava**  
-📞 **Contact:** +91 6202989037 
-💼 **LinkedIn:**[maltiadarsh] (https://linkedin.com/in/maltiadarsh)  
-📧 **Email:** adarshsrivastava.ds@gmail.com  
-💻 **Portfolio:** Coming soon!
+📞 **Contact:** +91 6202989037  
+💼 **LinkedIn:** [maltiadarsh](https://linkedin.com/in/maltiadarsh)  
+📧 **Email:** [adarshsrivastava.ds@gmail.com](mailto:adarshsrivastava.ds@gmail.com)  
+💻 **Portfolio:** *Coming soon!*  
+🌍 **GitHub:** [maltiadarsh](https://github.com/maltiadarsh)
+
 
 
