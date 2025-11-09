@@ -85,7 +85,7 @@ Click the image below to watch the full demo on YouTube 👇
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/text-to-sql-gemini.git](https://github.com/maltiadarsh/text-sql_quary.git)
+git clone https://github.com/maltiadarsh/text-sql_quary.git
 cd text-to-sql-gemini
 ```
 ---
