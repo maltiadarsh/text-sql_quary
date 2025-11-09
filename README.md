@@ -11,14 +11,12 @@ This project allows anyone to query a database using natural language, powered b
 2. [🌍 Real-World Problem](#-real-world-problem)  
 3. [✨ Features](#-features)  
 4. [🧩 Tech Stack](#-tech-stack)  
-5. [📸 Project Preview](#-project-preview)  
+5. [🎥 Demo Video](#-demo-video) 
 6. [⚙️ Setup Instructions](#️-setup-instructions)  
-7. [💻 Usage](#-usage)  
-8. [🎥 Demo Video](#-demo-video)  
-9. [📊 Example Queries](#-example-queries)  
-10. [📁 Project Structure](#-project-structure)  
-11. [👤 Author](#-author)  
-12. [📜 License](#-license)
+7. [💻 Usage](#-usage)   
+8. [📊 Example Queries](#-example-queries)  
+9. [📁 Project Structure](#-project-structure)  
+10. [👤 Author](#-author)  
 
 ---
 
