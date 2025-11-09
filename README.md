@@ -1,7 +1,7 @@
 # 🧠 Text-to-SQL Query Generator using Google Gemini & Streamlit
 
-> 🔍 **Convert plain English into SQL queries — instantly!**  
-> This project allows anyone to query a database using natural language, powered by **Google Gemini AI** and a beautiful **Streamlit interface**.
+🔍 **Convert plain English into SQL queries — instantly!**  
+This project allows anyone to query a database using natural language, powered by **Google Gemini AI** and a beautiful **Streamlit interface**.
 
 ---
 
