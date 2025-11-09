@@ -144,15 +144,13 @@ text-to-sql/
 ├── requirements.txt        # Project dependencies
 └── README.md               # Documentation
 ---
-## 👤 Author
+
 ## 👤 Author
 
 **Adarsh Srivastava**  
 📞 **Contact:** +91 6202989037 
-💼 **LinkedIn:** [linkedin.com/in/maltiadarsh](https://linkedin.com/in/maltiadarsh)  
+💼 **LinkedIn:**[maltiadarsh] (https://linkedin.com/in/maltiadarsh)  
 📧 **Email:** adarshsrivastava.ds@gmail.com  
 💻 **Portfolio:** Coming soon!
 
 
-
-# text-sql_quary
